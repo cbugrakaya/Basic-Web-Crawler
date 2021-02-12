@@ -24,7 +24,8 @@ In this project, I've overcome the two problems. These are;
 ## Additional Questions
 1.There are several ways to get  more data faster. Things you can do for this purpose;
 
-- Instead of crawling data with a single large spider, you can be split into smaller pieces and pulled data simultaneously with these smaller codes.
+- Instead of crawling data with a single large spider, you can be split into smaller pieces and pulled data simultaneously with these smaller pieces.
+
 - When upload or write data to databases or some files, You can use batching logic. These means instead of write each data to file in each loop, you can collect these all data in dataFrame or dictionary then upload all data in one go. 
 
 - In the settings file to avoid problems arising from internet speed, you can change *CONCURRENT_REQUESTS*, *DOWNLOAD_TIMEOUT*, *DOWNLOAD_DELAY*.
