@@ -30,4 +30,5 @@ In this project, I've overcome the two problems. These are;
 
 - In the settings file to avoid problems arising from internet speed, you can change *CONCURRENT_REQUESTS*, *DOWNLOAD_TIMEOUT*, *DOWNLOAD_DELAY*.
 
-2. We can call APIs the WhatsApp of programs in systems. The purpose of APIs is to enable programs to communicate with each other. For example, You wanted to get a drink from Getir and opened the mobile app.Then, you have chosen a drink and ordered.In fact, placing this order, checking whether it is in the warehouse (or database), or reporting this order to the warehouse is done entirely via API.
+
+2.We can call APIs the WhatsApp of programs in systems. The purpose of APIs is to enable programs to communicate with each other. For example, You wanted to get a drink from Getir and opened the mobile app.Then, you have chosen a drink and ordered.In fact, placing this order, checking whether it is in the warehouse (or database), or reporting this order to the warehouse is done entirely via API.
